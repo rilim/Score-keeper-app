@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Battleships</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="toast_player1won">Player 1 won and got 1 point \n\tStart the new game</string>
+    <string name="toast_player2won">Player 2 won and got 1 point \n\tStart the new game</string>
+    <string name="destroyed_ships">Destroyed opponent\'s ships</string>
+    <string name="battleship">Battleship</string>
+    <string name="cruiser">Cruisers</string>
+    <string name="destroyer">Destroyers</string>
+    <string name="submarine">Submarines</string>
+    <string name="new_game">New Game</string>
+    <string name="reset">Reset All</string>
+</resources>
